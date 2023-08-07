@@ -36,11 +36,11 @@ This project aims to predict whether a person has diabetes or not using machine 
 ## Dependencies
 
 - The following Python libraries are required to run the code:
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - scikit-learn
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+  - `scikit-learn`
 
 - Install the dependencies using pip:
 ```bash
